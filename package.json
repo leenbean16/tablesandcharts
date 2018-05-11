@@ -1,0 +1,27 @@
+{
+  "name": "rfa",
+  "version": "1.0.0",
+  "description": "reilly financial advisors",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leenbean16/rfa.git"
+  },
+  "keywords": [
+    "rfa",
+    "javascript",
+    "github"
+  ],
+  "author": "lina shamoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leenbean16/rfa/issues"
+  },
+  "homepage": "https://github.com/leenbean16/rfa#readme",
+  "dependencies": {
+    "d3": "^5.1.0"
+  }
+}

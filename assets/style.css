@@ -1,0 +1,87 @@
+.navbar-item img {
+    max-height: 4.75rem;
+}
+
+.titles {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.titles {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.hero.is-primary {
+    background-color: #0F2F45;
+    color: #fff;
+}
+
+.navbar {
+    min-height: 3.25rem;
+    background: #0F2F45;
+}
+
+a.navbar-item,
+a.navbar-item,
+a.navbar-link {
+    background-color: transparent;
+    color: #FFFFFF;
+}
+
+a.navbar-link.is-active:not(:hover) {
+    background-color: transparent;
+    color: #FFFFFF;
+}
+
+.defensive-container {
+    display: flex;
+    padding: 15px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.page-body {
+    display: flex;
+    padding: 15px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+canvas#myChart {
+    height: 700px !important;
+    width: 700px !important;
+}
+
+.flow-chart {
+    padding: 100px;
+}
+
+.navbar-dropdown {
+    background: #1d3b54;
+    color: #FFFFFF;
+    border-top-color: #172F43;
+}
+
+.is-selected {
+    background-color: #172F43 !important;
+}
+
+.asset-list-title {
+    font-weight: bold;
+    background: #224766;
+    color: #FFFFFF;
+}
+
+li {
+    list-style: none;
+}
+
+.companies-percentages {
+
+}
+
+.card+.card
+    margin-top: 20px
